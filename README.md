@@ -1,1 +1,3 @@
-# 2025-2-Benja-Urra
+# IMT2200 Benjamín Urra
+
+Hola! Este es mi repositorio :)
